@@ -2,7 +2,7 @@
 """
 Created on Thu Mar 21 15:08:32 2024
 
-@author: UMME_HANI
+
 """
 
 import pickle
