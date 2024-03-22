@@ -2,7 +2,7 @@
 """
 Created on Sat Aug 26 01:00:50 2023
 
-@author: UMME_HANI
+
 """
 
 import streamlit as st
